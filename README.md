@@ -48,7 +48,7 @@ Inspired by the beauty and complexity of this art style, we decided that we want
 # Table of Contents
 * [Product Specification](#product-specification)
 * [System Design](#system-design)
-* [Demo](#full-run-(with-intervention))
+* [Demo](#full-run)
 * [Conclusion](#conclusion)
 
 # Product Specification
