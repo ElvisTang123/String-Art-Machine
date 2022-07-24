@@ -171,7 +171,7 @@ Due to our lack of experience developing mechanical systems and budget constrain
 | ![](media/7.jpg) | The third problem we encountered was with regards to the having insufficient nail depth. We bought a quarter inch MDF board thinking it was sufficient depth for the nails. However, quarter inch was too shallow and the nails were not pinned deep enough so when the tension in the string gets high, the torque causes the nails to get ejected from the hole. Therefore for this project, we used some hot-glue to pin it to the base. A permanent solution to this problem would be to use at least a half inch MDF board. |
 | ----------------- |:----------------|
 
-# Full Run (With Intervention)
+# Full Run
 In the end, we managed to do a full run on the machine with a little bit of human intervention. We slowed the speed of string looping so that there is sufficient time for us to make sure the string is looped correctly. Most of the time, we used a small tweezers to push the string down on the nail so that they do not end up interfering with one another. Occasionally, we have to manually loop the strings onto the nail. This was the result of some nails being not long enough to reach the design height as mentioned previously. 
 
 <div align="center">
