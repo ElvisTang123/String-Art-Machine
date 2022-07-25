@@ -46,14 +46,14 @@ Inspired by the beauty and complexity of this art style, we decided that we want
 | ---------------- | --------------- |
 
 # Table of Contents
-* [Product Specification](#product-specification)
+* [Bill of Materials](#bill-of-materials)
 * [System Design](#system-design)
 * [Results Demonstration](#results-demonstration)
 * [Challenges](#challenges)
 * [Full Run](#full-run)
 * [Conclusion](#conclusion)
 
-# Product Specification
+# Bill of Materials
 ## Hardware Components
 | **Components** | **vender**     | **Dimension** |
 | :-----------:  | :-----------: | :-----------: |
