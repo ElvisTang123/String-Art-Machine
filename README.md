@@ -1,29 +1,3 @@
-<!---
-<img src="media/1.gif" alt="" width="200"/>
-<img src="media/2.gif" alt="" width="200"/>
-<img src="media/3.gif" alt="" width="200"/>
-<img src="media/4.gif" alt="" width="200"/>
-
-<img src="media/2.jpg" alt="" width="200"/>
-<img src="media/3.jpg" alt="" width="200"/>
-<img src="media/1.jpeg" alt="Cat_Original" width="200"/>
-<img src="media/4.jpg" alt="Cat_String" width="200"/>
-<img src="media/5.jpg" alt="" width="200"/>
-<img src="media/6.jpg" alt="" width="200"/>
-<img src="media/7.jpg" alt="" width="200"/>
-<img src="media/8.jpg" alt="" width="200"/>
-<img src="media/9.jpg" alt="" width="200"/>
-<img src="media/10.jpg" alt="" width="200"/>
-
-
-
-
-
-![](media/8.jpg)
-![](media/9.jpg)
-![](media/10.jpg)
--->
-
 
 <p align="center">
   <img src="media/1.jpg" alt="" width="70%"/>
