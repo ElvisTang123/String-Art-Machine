@@ -86,7 +86,7 @@ Our current StringArt_Gen.py file is heavily based on this github repository: [k
 
 ## Firmware Design
 ### Finite State Machine
-
+The main program of the sumo bot can be found in [StringArt.py](https://github.com/AhKyaw/ME405_StringArt/blob/main/python%20files/StringArt.py)
 <div align="center">
   <img src="media/Finite_State_Machine.png" alt="Hardware_Design" width="600"/>
 </div>
