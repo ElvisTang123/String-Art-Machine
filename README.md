@@ -76,6 +76,8 @@ The full CAD model for the assembly of the machine can be found in the CAD folde
 
 ## Software Design
 ### String Art Generator
+The main program for the string art conversion can be found in [StringArt_Gen.py](https://github.com/AhKyaw/ME405_StringArt/blob/main/python%20files/StringArt_Gen.py)
+
 Our current StringArt_Gen.py file is heavily based on this github repository: [kaspermeerts/stringart.py](https://gist.github.com/kaspermeerts/781f0137b361b51224dcab722ae387b4), and also the knowledge in this paper: [String Art: Towards Computational Fabrication of String Images](https://www.dmg.tuwien.ac.at/geom/ig/publications/stringart/stringart.pdf).
 <p>The two figures below show the image before and after string art conversion. And before we input the image into the string art generator, we need to crop the image into square shape to make the program run normally.</p>
 
@@ -86,7 +88,7 @@ Our current StringArt_Gen.py file is heavily based on this github repository: [k
 
 ## Firmware Design
 ### Finite State Machine
-The main program of the sumo bot can be found in [StringArt.py](https://github.com/AhKyaw/ME405_StringArt/blob/main/python%20files/StringArt.py)
+The main program for the firmware design can be found in [StringArt.py](https://github.com/AhKyaw/ME405_StringArt/blob/main/python%20files/StringArt.py)
 <div align="center">
   <img src="media/Finite_State_Machine.png" alt="Hardware_Design" width="600"/>
 </div>
